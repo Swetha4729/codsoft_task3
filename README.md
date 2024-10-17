@@ -22,14 +22,6 @@ The Clear (C) button resets the input field, allowing for a new calculation.
 The Delete (DEL) button removes the last digit or operator from the input field.
 You can add a decimal point using the . button, but only one per number is allowed.
 
-## Project Structure
-calculator/
-│
-├── index.html        # Main HTML file
-├── style.css         # CSS file for styling
-├── script.js         # JavaScript file for functionality
-└── README.md         # This readme file
-
 ## 📈Future Improvements
 Implement additional operations like square roots and percentages.
 Add keyboard support for input.
